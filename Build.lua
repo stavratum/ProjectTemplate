@@ -1,4 +1,3 @@
---
 workspace "New Project"
    architecture "x64"
    configurations { "Debug", "Release", "Dist" }
